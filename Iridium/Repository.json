@@ -2,13 +2,13 @@
   "Releases": [
     {
       "Id": "Iridium",
-      "Version": "1.4.0_beta5",
-      "DownloadUrl": "https://github.com/adofaiex/Iridium/releases/download/r41_beta5/Iridium_1.4.0_beta5+adofai_v3.zip"
+      "Version": "1.4.0_prerelease1",
+      "DownloadUrl": "https://github.com/adofaiex/Iridium/releases/download/r41_prerelease1/Iridium_1.4.0_prerelease1+adofai_v3.zip"
     },
     {
       "Id": "Iridium",
-      "Version": "1.4.0_beta5",
-      "DownloadUrl": "https://github.com/adofaiex/Iridium/releases/download/r41_beta5/Iridium_1.4.0_beta5+adofai_v2.zip"
+      "Version": "1.4.0_prerelease1",
+      "DownloadUrl": "https://github.com/adofaiex/Iridium/releases/download/r41_prerelease1/Iridium_1.4.0_prerelease1+adofai_v2.zip"
     }
   ]
 }
