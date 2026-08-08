@@ -2,13 +2,13 @@
   "Releases": [
     {
       "Id": "Iridium",
-      "Version": "2.0.0_nightly4",
-      "DownloadUrl": "https://github.com/adofaiex/Iridium/releases/download/r201_nightly4/Iridium_2.0.0_nightly4+adofai_v3.zip"
+      "Version": "2.0.0_beta1",
+      "DownloadUrl": "https://github.com/adofaiex/Iridium/releases/download/r201_beta1/Iridium_2.0.0_beta1+adofai_v3.zip"
     },
     {
       "Id": "Iridium",
-      "Version": "2.0.0_nightly4",
-      "DownloadUrl": "https://github.com/adofaiex/Iridium/releases/download/r201_nightly4/Iridium_2.0.0_nightly4+adofai_v2.zip"
+      "Version": "2.0.0_beta1",
+      "DownloadUrl": "https://github.com/adofaiex/Iridium/releases/download/r201_beta1/Iridium_2.0.0_beta1+adofai_v2.zip"
     }
   ]
 }
