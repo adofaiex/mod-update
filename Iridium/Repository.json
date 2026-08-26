@@ -2,13 +2,13 @@
   "Releases": [
     {
       "Id": "Iridium",
-      "Version": "2.0.0",
-      "DownloadUrl": "https://github.com/adofaiex/Iridium/releases/download/r201_final/Iridium_2.0.0+adofai_v3.zip"
+      "Version": "2.0.0_hotfix1",
+      "DownloadUrl": "https://github.com/adofaiex/Iridium/releases/download/r201_hotfix1/Iridium_2.0.0_hotfix1+adofai_v3.zip"
     },
     {
       "Id": "Iridium",
-      "Version": "2.0.0",
-      "DownloadUrl": "https://github.com/adofaiex/Iridium/releases/download/r201_final/Iridium_2.0.0+adofai_v2.zip"
+      "Version": "2.0.0_hotfix1",
+      "DownloadUrl": "https://github.com/adofaiex/Iridium/releases/download/r201_hotfix1/Iridium_2.0.0_hotfix1+adofai_v2.zip"
     }
   ]
 }
