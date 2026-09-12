@@ -2,8 +2,8 @@
   "Releases": [
     {
       "Id": "Iridium",
-      "Version": "2.0.1_snapshot3",
-      "DownloadUrl": "https://github.com/adofaiex/Iridium/releases/download/r202_snapshot3/Iridium_2.0.1_snapshot3+adofai_v3.zip"
+      "Version": "2.0.1_beta1",
+      "DownloadUrl": "https://github.com/adofaiex/Iridium/releases/download/r202_beta1/Iridium_2.0.1_beta1+adofai_v3.zip"
     }
   ]
 }
